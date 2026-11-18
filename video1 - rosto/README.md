@@ -4,8 +4,7 @@
 
 Um rostinho que **pisca** e **muda de expressão** (feliz, surpreso e sonolento) usando só um **ESP32** e uma **tela OLED**. Dá para fazer de graça, direto no navegador, com o simulador Wokwi, ou numa placa real.
 
-> **Vídeo tutorial:** _(cole aqui o link do vídeo no TikTok)_
-> **Abrir o projeto pronto no Wokwi:** _(cole aqui o link do projeto compartilhado)_
+> **Abrir o projeto pronto no Wokwi:** https://wokwi.com/projects/481063844446785537
 
 ---
 
@@ -115,7 +114,7 @@ No vídeo 2, vamos adicionar um **botão** e um **buzzer**. Veja o andamento da 
 ## Autor
 
 Estudante de Engenharia Eletrônica. Siga a série para ver os próximos passos:
-**TikTok:** _(seu @)_ · **Instagram:** _(seu @)_
+**TikTok:**  · **Instagram:** @Luiz.weber.eng
 
 ---
 
