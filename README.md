@@ -78,7 +78,7 @@ Abra uma **Issue** aqui no GitHub ou comente no vídeo. Se você criar uma expre
 ## Autor
 
 Estudante de Engenharia Eletrônica.
-**TikTok:** _(seu @)_ · **Instagram:** _(seu @)_
+**TikTok:**  · **Instagram:** @Luiz.weber.eng
 
 ---
 
