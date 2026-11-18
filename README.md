@@ -16,7 +16,6 @@ Cada vídeo tem uma pasta própria, com o código, as ligações e um README exp
 | 4 | Fantasias para datas festivas | `video4-fantasias` | Em breve |
 | 5 | Versão com bateria e carcaça | `video5-bateria` | Em breve |
 
-Links dos vídeos no TikTok: _(cole aqui o link de cada vídeo conforme for publicando)_
 
 ---
 
