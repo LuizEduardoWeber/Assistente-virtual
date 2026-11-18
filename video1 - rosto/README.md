@@ -1,9 +1,11 @@
-# Assistente ESP32: rosto na tela OLED
+# Vídeo 1: rosto na tela OLED
+
+[Voltar ao índice da série](../README.md)
 
 Um rostinho que **pisca** e **muda de expressão** (feliz, surpreso e sonolento) usando só um **ESP32** e uma **tela OLED**. Dá para fazer de graça, direto no navegador, com o simulador Wokwi, ou numa placa real.
 
-> **Vídeo tutorial:**
-> **Abrir o projeto pronto no Wokwi:** https://wokwi.com/projects/481063844446785537
+> **Vídeo tutorial:** _(cole aqui o link do vídeo no TikTok)_
+> **Abrir o projeto pronto no Wokwi:** _(cole aqui o link do projeto compartilhado)_
 
 ---
 
@@ -83,25 +85,19 @@ Dica: tente criar uma **quarta expressão** (brava, triste, apaixonada...). Bast
 
 ---
 
-## Estrutura do repositório
+## Arquivos desta pasta
 
-```
-assistente-esp32/
-├── README.md
-└── video1-rosto/
-    ├── rosto.ino # código do vídeo 1
-    ├── diagram.json # ligações para o Wokwi
-    └── libraries.txt # bibliotecas do Wokwi
-```
+| Arquivo | O que é |
+|---|---|
+| `rosto.ino` | Código do vídeo 1 |
+| `diagram.json` | Ligações para importar no Wokwi |
+| `libraries.txt` | Bibliotecas usadas no Wokwi |
 
 ---
 
-## Próximos passos da série
+## Próximo vídeo
 
-- [ ] **Vídeo 2:** adicionar um **botão** e um **buzzer** (sons)
-- [ ] **Vídeo 3:** buscar o **clima** pela internet e mostrar na tela
-- [ ] **Vídeo 4:** fantasias para datas festivas
-- [ ] **Vídeo 5:** versão com **bateria** e carcaça
+No vídeo 2, vamos adicionar um **botão** e um **buzzer**. Veja o andamento da série no [índice](../README.md).
 
 ---
 
@@ -119,11 +115,10 @@ assistente-esp32/
 ## Autor
 
 Estudante de Engenharia Eletrônica. Siga a série para ver os próximos passos:
-**TikTok:**  · **Instagram:** @Luiz.weber.eng
+**TikTok:** _(seu @)_ · **Instagram:** _(seu @)_
 
 ---
 
 ## Licença
 
 Este projeto está sob a licença **MIT**. Use, modifique e compartilhe à vontade. Se ele te ajudar, marque o perfil no vídeo
-
